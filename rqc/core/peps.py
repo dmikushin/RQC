@@ -1,4 +1,3 @@
-
 import warnings
 from numpy.random import rand
 from numpy import zeros, array, sqrt

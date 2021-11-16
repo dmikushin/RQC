@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Author: guochu
-# @Date:   2020-11-09 10:55:24
-# @Last Modified by:   guochu
-# @Last Modified time: 2020-11-11 19:18:07
 from numpy.random import uniform
 from numpy import sqrt
 from rqc.tensor import astensor 

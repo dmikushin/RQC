@@ -1,11 +1,3 @@
-
-
-
-# -*- coding: utf-8 -*-
-# @Author: guochu
-# @Date:   2018-08-26 15:17:23
-# @Last Modified by:   guochu
-# @Last Modified time: 2019-01-05 11:44:29
 from numpy import diag, pi, exp, sin, cos, sqrt, kron
 
 from rqc.tensor import eye, astensor

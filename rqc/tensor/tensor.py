@@ -1,5 +1,3 @@
-
-
 from numpy import ndarray, asarray
 from numpy import diag as ddiag
 from numpy import inner, kron, tensordot

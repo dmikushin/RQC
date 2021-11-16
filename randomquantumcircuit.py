@@ -1,5 +1,3 @@
-
-
 from rqc.gates import Xh, Yh, H, T, CZ
 from rqc.core import QuantumCircuit2D, generateQState2D
 
@@ -10,7 +8,7 @@ from copy import deepcopy
 
 class google_circuit:
 	"""
-	cloumn major storage
+	column major storage
 	docstring for google_circuit
 	"""
 	def __init__(self, m, n):

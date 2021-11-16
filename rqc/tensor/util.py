@@ -1,5 +1,3 @@
-
-
 import warnings
 
 from numpy import zeros, inner, log, asarray, power

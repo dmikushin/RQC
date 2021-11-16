@@ -1,4 +1,3 @@
-
 from numpy import sqrt
 
 __all__ = ['rescaled_overlap', 'close_peps']

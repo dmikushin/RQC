@@ -1,5 +1,3 @@
-
-
 from math import sqrt as ssqrt
 
 from rqc.tensor import eye, astensor
